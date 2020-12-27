@@ -14,7 +14,3 @@ title: Famiglia
 ## ^^Angelica^^
 ## TODO ^^Benedetta^^
 ## ^^Matteo^^
-### LATER
-:PROPERTIES:
-:later: 1609113395457
-:END:
