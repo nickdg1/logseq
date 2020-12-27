@@ -3,9 +3,6 @@ title: Famiglia
 ---
 
 ## ^^Ivan^^
-:PROPERTIES:
-:background_color: rgb(83, 62, 125)
-:END:
 ### Casa
 ### Lavoro
 ### Computer
