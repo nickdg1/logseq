@@ -8,6 +8,9 @@ title: DOGE 2.0
 presto presto
 #+END_TIP
 ### Allertamenti
+:PROPERTIES:
+:id: 5fe91aee-01f1-4309-833e-2efb2c6041df
+:END:
 #### VVF
 #### 112
 #### 113
