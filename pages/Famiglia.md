@@ -12,8 +12,3 @@ title: Famiglia
 ## ^^Angelica^^
 ## ^^Benedetta^^
 ## ^^Matteo^^
-## +BEGIN_QUOTE
-:PROPERTIES:
-:: 
-:END:
-## +END_QUOTE
