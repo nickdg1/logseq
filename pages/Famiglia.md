@@ -13,5 +13,4 @@ title: Famiglia
 ## ^^Benedetta^^
 ## ^^Matteo^^
 ## +BEGIN_QUOTE
-## #[[DOGE 2.0]]
 ## +END_QUOTE
