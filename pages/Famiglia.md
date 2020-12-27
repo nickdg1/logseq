@@ -7,6 +7,9 @@ title: Famiglia
 :background_color: rgb(120, 127, 151)
 :END:
 ### Casa
+:PROPERTIES:
+:background_color: rgb(83, 62, 125)
+:END:
 ### Lavoro
 ### Computer
 #### Progetti
