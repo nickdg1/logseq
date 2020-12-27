@@ -8,7 +8,7 @@ title: Famiglia
 ### Computer
 #### Progetti
 ##### #[[DOGE 2.0]]
-##### /
+##### {{{embed (())}}}
 ## ^^Carmen^^
 ## ^^Angelica^^
 ## ^^Benedetta^^
