@@ -14,7 +14,7 @@ Documentazione
 Criteri
 
 Azione
-#### #### Allertamenti
+#### Allertamenti
 :PROPERTIES:
 :END:
 ##### LATER VVF
@@ -31,8 +31,8 @@ Azione
 :END:
 ##### CAV
 ##### Altri
-##### Attivazione
-    Comunicazioni
+#### Attivazioni
+#### Comunicazioni
 
 Piani Specifici
 
