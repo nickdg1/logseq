@@ -8,11 +8,8 @@ title: DOGE 2.0
 presto presto
 #+END_TIP
 ### Doge 2.0
-
 Documentazione
-
 Criteri
-
 Azione
 #### Allertamenti
 :PROPERTIES:
