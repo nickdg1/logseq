@@ -1,4 +1,3 @@
 ### #NOW
 ## #DOING
-## #DEADLINE
 ##
