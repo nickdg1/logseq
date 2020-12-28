@@ -32,10 +32,10 @@ Azione
 #### Comunicazioni
 #### Piani Specifici
 ##### Generali
-    Locali
-        Bergamo
-        Brescia
-        Sondrio
+##### Locali
+###### Bergamo
+###### Brescia
+###### Sondrio
 ###### LATER VVF
 :PROPERTIES:
 :now: 1609113880916
