@@ -24,5 +24,8 @@ title: Famiglia
 :END:
 ## DEADLINE: <2021-02-16 Tue> rompere le uova nel paniere
 ## [[2020-12-28-01-57-45-fester.excalidraw]]
+:PROPERTIES:
+:heading: true
+:END:
 <iframe class="draw-iframe" src="/draw?file=2020-12-28-01-57-45-fester.excalidraw" width="100" height="100" frameborder="0" allowfullscreen></iframe>
 ##
