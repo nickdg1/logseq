@@ -33,28 +33,27 @@ Azione
 ##### Altri
 #### Attivazioni
 #### Comunicazioni
-
-Piani Specifici
+### Piani Specifici
 
     Generali
     Locali
         Bergamo
         Brescia
         Sondrio
-##### LATER VVF
+#### LATER VVF
 :PROPERTIES:
 :now: 1609113880916
 :END:
-##### NOW 112
+#### NOW 112
 :PROPERTIES:
 :now: 1609114429512
 :END:
-##### LATER 113
+#### LATER 113
 :PROPERTIES:
 :later: 1609168711306
 :END:
-##### CAV
-##### AltriAttivazione
+#### CAV
+#### AltriAttivazione
     Comunicazioni
 
 Piani Specifici
