@@ -13,7 +13,7 @@ title: Famiglia
 :PROPERTIES:
 :now: 1609113667561
 :END:
-## TODO ^^Angelica^^
+## DOING ^^Angelica^^
 :PROPERTIES:
 :todo: 1609113484283
 :END:
