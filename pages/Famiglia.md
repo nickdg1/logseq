@@ -17,8 +17,8 @@ title: Famiglia
 :PROPERTIES:
 :todo: 1609113484283
 :END:
-## TODO ^^Benedetta^^
-## TODO ^^Matteo^^
+## DOING ^^Benedetta^^
+## DOING ^^Matteo^^
 :PROPERTIES:
 :todo: 1609113479304
 :END:
