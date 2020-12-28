@@ -8,7 +8,7 @@ title: Famiglia
 ### Computer
 #### Progetti
 ##### #[[DOGE 2.0]]
-##### /
+##### /link
 ## NOW ^^Carmen^^
 :PROPERTIES:
 :now: 1609113667561
