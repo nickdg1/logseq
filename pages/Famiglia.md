@@ -26,6 +26,7 @@ title: Famiglia
 ## [[2020-12-28-01-57-45-fester.excalidraw]]
 :PROPERTIES:
 :heading: true
+:background_color: rgb(38, 76, 155)
 :END:
 <iframe class="draw-iframe" src="/draw?file=2020-12-28-01-57-45-fester.excalidraw" width="100" height="100" frameborder="0" allowfullscreen></iframe>
 ##
