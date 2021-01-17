@@ -9,7 +9,7 @@ title: Famiglia
 #### Progetti
 ##### #[[DOGE 2.0]]
 ##### [DYNALIST](https://dynalist.io/d/wO3V83v7OTPwnU8pvBknKrk4)
-##### [[lDog]
+#####
 ## NOW ^^Carmen^^
 :PROPERTIES:
 :now: 1609113667561
