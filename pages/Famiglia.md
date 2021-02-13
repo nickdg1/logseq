@@ -9,7 +9,7 @@ title: Famiglia
 #### Progetti
 ##### #[[DOGE 2.0]]
 ##### [DYNALIST](https://dynalist.io/d/wO3V83v7OTPwnU8pvBknKrk4)
-#####
+##### ((600465be-f4db-4209-b2b8-62f6e5744f98))
 ## NOW ^^Carmen^^
 :PROPERTIES:
 :now: 1609113667561
@@ -24,6 +24,9 @@ title: Famiglia
 :todo: 1609113479304
 :END:
 ## DEADLINE: <2021-02-16 Tue> rompere le uova nel paniere
+:PROPERTIES:
+:id: 600465be-f4db-4209-b2b8-62f6e5744f98
+:END:
 ## [[2020-12-28-01-57-45-fester.excalidraw]]
 :PROPERTIES:
 :heading: true

@@ -11,8 +11,6 @@ Doge 2.0
 Criteri
 Azione
 #### Allertamenti
-:PROPERTIES:
-:END:
 ##### LATER VVF
 :PROPERTIES:
 :now: 1609113880916
