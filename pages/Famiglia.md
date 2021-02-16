@@ -17,7 +17,7 @@ title: Famiglia
 ##### Tutoraggio nuovi inseriti
 ###### Riunione Tutor pre-inserimento personale nuovo
 ####### Assegnazione
-#######
+####### Veri
 #### Strategie di soccorso
 ### Computer
 #### Progetti
