@@ -21,6 +21,8 @@ title: Famiglia
 ###### Set minimo di informazioni richieste per la valutazione della destinazione
 ####### #Serve Accesso Riascolto
 ##### Verifica
+###### GAE
+######
 #### Progetto miglioramento
 ##### Tutoraggio nuovi inseriti
 ###### Riunione Tutor pre-inserimento personale nuovo
