@@ -18,7 +18,8 @@ title: Famiglia
 ###### Riunione Tutor pre-inserimento personale nuovo
 ####### Assegnazione
 ####### Valutazione intermedia
-####### Valutazione finale ()
+####### Valutazione finale (quale possibilità di intervento)
+######
 #### Strategie di soccorso
 ### Computer
 #### Progetti
