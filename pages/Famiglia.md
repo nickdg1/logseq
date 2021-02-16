@@ -17,7 +17,7 @@ title: Famiglia
 ####### #Serve Accesso DB
 ##### Azione
 ###### Autovalutazione
-####### #Serve Accesso DB (estrazione )
+####### #Serve Accesso DB (estrazione dei casi )
 ###### Set minimo di informazioni richieste per la valutazione della destinazione
 ####### #Serve Accesso Riascolto
 ##### Verifica
