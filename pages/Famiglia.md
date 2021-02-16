@@ -10,6 +10,8 @@ title: Famiglia
 ##### Schema riassuntivo dei cambiamenti
 ##### Verifica dell'applicazione
 #### Riscontro
+##### Analisi
+##### Azione
 #####
 #### Progetto miglioramento
 #### Strategie di soccorso
