@@ -10,7 +10,7 @@ title: Famiglia
 ##### Schema riassuntivo dei cambiamenti
 ##### Verifica dell'applicazione
 ###### #Serve 1h 2h 2h
-###### #Serve
+###### #Serve Accesso DB
 #### Riscontro
 ##### Analisi
 ###### Compilazione (Mattoni)
