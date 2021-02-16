@@ -11,7 +11,7 @@ title: Famiglia
 ##### Verifica dell'applicazione
 #### Riscontro
 #### Progetto miglioramento
-####
+#### Strategie di soccorso
 ### Computer
 #### Progetti
 ##### #[[DOGE 2.0]]
