@@ -34,7 +34,6 @@ title: Famiglia
 ####### utilizzo del filtro
 ####### aderenza alle indicazioni
 ####### autovalutazione
-######
 #### Strategie di soccorso
 ### Computer
 #### Progetti
