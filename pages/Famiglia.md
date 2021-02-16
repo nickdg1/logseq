@@ -22,7 +22,7 @@ title: Famiglia
 ####### #Serve Accesso Riascolto
 ##### Verifica
 ###### GAE
-###### Analisi 1 caso al mese in video-call
+###### Analisi 1 caso al mese in video-call inerente
 #### Progetto miglioramento
 ##### Tutoraggio nuovi inseriti
 ###### Riunione Tutor pre-inserimento personale nuovo
