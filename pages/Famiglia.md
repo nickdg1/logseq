@@ -7,8 +7,8 @@ title: Famiglia
 ### Lavoro
 #### Documenti prescrittivi
 ##### Pubblicazione -> cosa cambia
-##### Schema riassuntivo
-#####
+##### Schema riassuntivo dei cambiamenti
+##### Verifica dell'applicazione
 ### Computer
 #### Progetti
 ##### #[[DOGE 2.0]]
