@@ -19,7 +19,8 @@ title: Famiglia
 ####### Assegnazione
 ####### Valutazione intermedia
 ####### Valutazione finale (quale possibilità di intervento)
-###### Analisi
+###### Analisi delle performance
+#######
 #### Strategie di soccorso
 ### Computer
 #### Progetti
