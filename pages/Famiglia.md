@@ -6,7 +6,7 @@ title: Famiglia
 ### Casa
 ### Lavoro
 #### #DocPrescrittivi
-##### Pubblicazione -> cosa cambia #Serve Gruppo di lavoro misto ()
+##### Pubblicazione -> cosa cambia #Serve Gruppo di lavoro misto (Medico-Infermiere-Tecnico)
 ##### Schema riassuntivo dei cambiamenti
 ##### Verifica dell'applicazione
 ###### #Serve 1h 2h 2h
