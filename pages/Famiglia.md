@@ -9,7 +9,8 @@ title: Famiglia
 ##### Pubblicazione -> cosa cambia
 ##### Schema riassuntivo dei cambiamenti
 ##### Verifica dell'applicazione
-##### #Serve 1h 2h 2h
+###### #Serve 1h 2h 2h
+###### @
 #### Riscontro
 ##### Analisi
 ###### Compilazione (Mattoni)
