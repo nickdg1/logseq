@@ -12,7 +12,6 @@ title: Famiglia
 #### Riscontro
 ##### Analisi
 ###### Compilazione (Mattoni)
-######
 ##### Azione
 ##### Verifica
 #### Progetto miglioramento
