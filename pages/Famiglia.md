@@ -6,7 +6,7 @@ title: Famiglia
 ### Casa
 ### Lavoro
 #### #DocPrescrittivi
-##### Pubblicazione -> cosa cambia
+##### Pubblicazione -> cosa cambia #
 ##### Schema riassuntivo dei cambiamenti
 ##### Verifica dell'applicazione
 ###### #Serve 1h 2h 2h
