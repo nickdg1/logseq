@@ -6,7 +6,7 @@ title: Famiglia
 ### Casa
 ### Lavoro
 #### #DocPrescrittivi
-##### Pubblicazione -> cosa cambia #Serve
+##### Pubblicazione -> cosa cambia #Serve Gruppo di lavoro misto ()
 ##### Schema riassuntivo dei cambiamenti
 ##### Verifica dell'applicazione
 ###### #Serve 1h 2h 2h
