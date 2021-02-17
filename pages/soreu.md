@@ -3,11 +3,11 @@ title: SOREU
 ---
 
 ## SOREU
-    Documenti prescrittivi
-        Prima della pubblicazione / divulgazione bisogna:
-            Capire se ci sono e quali sono le ricadute organizzative.
-            Fare una sintesi dei cambiamenti e se necessario dei comportamenti che devono essere modificati
-            Diffondere Documento e Sintesi
+### Documenti prescrittivi
+#### Prima della pubblicazione / divulgazione bisogna:
+##### Capire se ci sono e quali sono le ricadute organizzative.
+##### Fare una sintesi dei cambiamenti e se necessario dei comportamenti che devono essere modificati
+##### Diffondere Documento e Sintesi
         Dopo la pubblicazione ad intervalli prefissati:
             Verificarne l'applicazione in modalità randomica & personale
     Riscontro
